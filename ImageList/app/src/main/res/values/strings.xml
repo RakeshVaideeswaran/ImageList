@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image List</string>
+    <string-array name="caption">
+        <item>China</item>
+        <item>India</item>
+        <item>Indonesia</item>
+    </string-array>
+</resources>
